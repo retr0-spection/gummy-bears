@@ -1,5 +1,5 @@
 # gummy-bears
-Checks if anyway of your passwords have been compromised in a data leak.
+Checks if any of your passwords have been compromised in a data leak.
 
 1.In order to send SMS's you will need to create a free account using on twilio. 
 
